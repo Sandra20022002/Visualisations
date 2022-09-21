@@ -1,2 +1,3 @@
 # Vizualisations
-Vizualisations on Tableau / PowerBI
+Vizualisations in PowerBI:
+https://disk.yandex.ru/d/GkxxRMTEjI2eYg
